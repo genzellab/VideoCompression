@@ -1,0 +1,4 @@
+1. Launch terminal and then to activate the conda environment ("linzan" on Greenland pc)
+2. Make sure the original videos path in python script ("test" on Greenland pc)
+3. Change the line 42 to determain if compression video with GPU acceleration
+3. Run python script
